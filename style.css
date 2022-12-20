@@ -1,0 +1,24 @@
+body {
+  color: cadetblue;
+  margin: auto;
+  width: 80%;
+  border: solid #23d4ec;
+  border-width: 0 3px 0 3px;
+  padding: 25px;
+  font-size: 1.2em;
+}
+h1,
+h2,
+h3 {
+  color: #23d4ec;
+  text-align: center;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+.eu {
+  width: 25%;
+}
